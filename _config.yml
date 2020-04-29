@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: "Examples for IOCAS Ocean Data Analysis Platform"
+tagline: "https://datalab.iocasdata.com"
+tagline: "Institute of Oceanology, Chinese Academy of Sciences"
+github:
+  is_project_page: false
+kramdown:
+    auto_ids: true
