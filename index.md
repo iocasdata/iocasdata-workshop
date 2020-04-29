@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI for Earth Sciences
+title: Examples for IOCAS Ocean Data Analysis Platform 
 ---
 
 #  Join us virtually for the ICLR AI4Earth workshop April 26, 2020 from 7am-4pm PDT 
