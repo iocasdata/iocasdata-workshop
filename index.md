@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Examples for IOCAS Ocean Data Analysis Platform 
+title: IOCAS Ocean Data Analysis Platform 
 ---
 
-#  Join us virtually for the ICLR AI4Earth workshop April 26, 2020 from 7am-4pm PDT 
+#  海洋大数据云平台在线数据分析环境
 
 ---
 ## *Speakers and Invited Guests should [click here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html) for zoom and scheduling details*. 
