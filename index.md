@@ -16,7 +16,7 @@ title: IOCAS Ocean Data Platform
 * [数据门户(Data Portal)](http://portal.qdio.ac.cn)定时自动化读取业务系统提供的数据接口，及时感知数据资源池的新增数据，然后抽取元数据描述信息，按照不同数据分类发布数据目录。面向用户提供数据申请，经在线审批通过后获取数据实体。
 ![Portal](http://msdc.qdio.ac.cn/Web/Tpl/default/img/portal.png)
 
-* [在线数据分析系统](https://datalab.iocasdata.com)，通过建设分布式集群，集成数据资源和数据挖掘分析、可视化和地球科学领域科研应用软件工具，提供基于Web浏览器的在线数据分析环境。  
+* [在线数据分析系统](https://datalab.iocasdata.com)，通过建设分布式集群，集成数据资源和数据挖掘分析、可视化和地球科学领域科研应用软件工具，提供基于Web浏览器的在线数据分析环境。
 
 Summary：
   1. 海洋研究所自有数据资源已形成完整性校验、预处理、质量控制、元数据信息关联、格式标准化等流程，以统一的数据格式和关系型数据库存储。提供多种WebService数据接口。
@@ -25,8 +25,8 @@ Summary：
     
 ## Demo
 
-
-
+针对自有数据资源，分析系统通过调用数据业务核心系统提供的数据接口(OPeDAP/RESTFull)获取数据进行在线分析。
+![Portal](http://msdc.qdio.ac.cn/Web/Tpl/default/img/buoy-1.gif)
 
  
  
