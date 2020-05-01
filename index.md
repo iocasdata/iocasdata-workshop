@@ -4,7 +4,8 @@ title: IOCAS Ocean Data Analysis Platform
 ---
 
 ## 平台包括数据资源汇聚系统、数据业务核心系统、数据门户、云端在线数据分析系统。 
-![infrastucture](https://github.com/iocasdata/iocasdata-workshop/raw/master/images/image2.png)
+![infrastucture](http://msdc.qdio.ac.cn/Web/Tpl/default/img/image2.png)
+
 ---
 * 数据资源汇聚系统负责将海洋研究所的科考船调查、近海观测浮标台站、深海潜标观测网、卫星遥感等获取的原始数据进行完整性检查、质量控制、格式标准化等预处理操作之后，形成数据资源池。
 
