@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IOCAS Ocean Data Analysis Platform 
+title: IOCAS Ocean Data Platform 
 ---
 
 ## 平台包括数据资源汇聚系统、数据业务核心系统、数据门户、云端在线数据分析系统。 
@@ -15,12 +15,12 @@ title: IOCAS Ocean Data Analysis Platform
 
 * [在线数据分析系统](https://datalab.iocasdata.com)，通过建设分布式集群，集成数据资源和数据挖掘分析、可视化和地球科学领域科研应用软件工具，提供基于Web浏览器的在线数据分析环境。  
 
-Summery：
+Summary：
   1. 海洋研究所自有数据资源已形成完整性校验、预处理、质量控制、元数据信息关联、格式标准化等流程，以统一的数据格式和关系型数据库存储。提供多种WebService数据接口。
   2. 数据分析系统依托亚马逊AWS集群建设，能够以近毫秒级速度直接读取和分析AWS S3和Google Cloud Storage存储的公开数据集，无需下载到本地。
      目前，亚马逊AWS提供的[开放数据集](https://registry.opendata.aws/)达到143个，涉及卫星遥感、海洋与大气再分析数据集等。Google Cloud storage 已经存储包括NASA/NOAA/USGS/NCAR/ESA/CNES等机构的数据集。
     
-
+## Demo
 
 
 
@@ -30,4 +30,4 @@ Summery：
  
 ## Contact Us
 
-Send inquiries to ai4earthscience[at]gmail[dot]com
+Send inquiries to sjzx[at]qdio[dot]ac[dot]cn
