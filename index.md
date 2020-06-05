@@ -28,7 +28,7 @@ Summary：
 针对自有数据资源，分析系统通过调用数据业务核心系统提供的数据接口(OPeDAP/RESTFull)获取数据进行在线分析。
 ![Portal](http://msdc.qdio.ac.cn/Web/Tpl/default/img/buoy-1.gif)
 
- ![Portal](http://msdc.qdio.ac.cn/Web/Tpl/default/img/ssh-10.gif)
+![Portal](http://msdc.qdio.ac.cn/Web/Tpl/default/img/ssh-10.gif)
  
  
 ## Contact Us
